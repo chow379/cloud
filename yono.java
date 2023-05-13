@@ -14,7 +14,7 @@ class Main {
 }class Main {
   public static void main(String[] args) {
     	
-    double myDouble = 3.4;
+    double myDouble = 3.5;
     float myFloat = 3.4F;
  
     // 3.445*10^2
